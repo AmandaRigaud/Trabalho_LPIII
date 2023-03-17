@@ -17,10 +17,6 @@ namespace Polimorfismo
             throw new NotImplementedException();
         }
 
-        public void div(decimal n1, decimal n2)
-        {
-            throw new NotImplementedException();
-        }
 
         public void div(params int[] n)
         {
@@ -28,11 +24,6 @@ namespace Polimorfismo
         }
 
         public void div(params double[] n)
-        {
-            throw new NotImplementedException();
-        }
-
-        public void div(params decimal[] n)
         {
             throw new NotImplementedException();
         }
@@ -47,10 +38,6 @@ namespace Polimorfismo
             throw new NotImplementedException();
         }
 
-        public void mult(decimal n1, decimal n2)
-        {
-            throw new NotImplementedException();
-        }
 
         public void mult(params int[]n) {
             int mult = 1;
@@ -62,13 +49,13 @@ namespace Polimorfismo
 
         public void mult(params double[] n)
         {
-            throw new NotImplementedException();
+            double mult = 1;
+            foreach(double num in n){
+                mult *= num;
+            }
+            Console.WriteLine("A multiplicação eh: {0} ",mult);
         }
 
-        public void mult(params decimal[] n)
-        {
-            throw new NotImplementedException();
-        }
 
         public void soma(int n1, int n2)
         {
@@ -80,10 +67,6 @@ namespace Polimorfismo
             throw new NotImplementedException();
         }
 
-        public void soma(decimal n1, decimal n2)
-        {
-            throw new NotImplementedException();
-        }
 
         // {n} parametros (int)
         public void soma(params int[]n){
@@ -99,10 +82,6 @@ namespace Polimorfismo
             throw new NotImplementedException();
         }
 
-        public void soma(params decimal[] n)
-        {
-            throw new NotImplementedException();
-        }
 
         public void sub(int n1, int n2)
         {
@@ -114,10 +93,6 @@ namespace Polimorfismo
             throw new NotImplementedException();
         }
 
-        public void sub(decimal n1, decimal n2)
-        {
-            throw new NotImplementedException();
-        }
 
         public void sub(params int[]n){
             if(n.Length > 0){
@@ -136,10 +111,6 @@ namespace Polimorfismo
             throw new NotImplementedException();
         }
 
-        public void sub(params decimal[] n)
-        {
-            throw new NotImplementedException();
-        }
 
     }
 }

@@ -19,12 +19,6 @@ namespace Polimorfismo
         void mult(double n1, double n2);
         void div(double n1, double n2);
 
-        // 2 parametros (decimal)
-        void soma(decimal n1, decimal n2);
-        void sub(decimal n1, decimal n2);
-        void mult(decimal n1, decimal n2);
-        void div(decimal n1, decimal n2);
-
         // {n} parametros (int)
         void soma(params int[]n);
         void sub(params int[]n);
@@ -37,10 +31,6 @@ namespace Polimorfismo
         void mult(params double[]n);
         void div(params double[]n);
 
-        // {n} parametros (decimal)
-        void soma(params decimal[]n);
-        void sub(params decimal[]n);
-        void mult(params decimal[]n);
-        void div(params decimal[]n);
+        
     }
 }
