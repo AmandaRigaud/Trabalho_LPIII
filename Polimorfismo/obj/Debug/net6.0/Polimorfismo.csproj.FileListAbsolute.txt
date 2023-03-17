@@ -1,0 +1,15 @@
+/home/angelina/Documents/ESTUDOS/FACULDADE/2023.1/LP3/repoProject/Trabalho_LPIII/Polimorfismo/bin/Debug/net6.0/Polimorfismo
+/home/angelina/Documents/ESTUDOS/FACULDADE/2023.1/LP3/repoProject/Trabalho_LPIII/Polimorfismo/bin/Debug/net6.0/Polimorfismo.deps.json
+/home/angelina/Documents/ESTUDOS/FACULDADE/2023.1/LP3/repoProject/Trabalho_LPIII/Polimorfismo/bin/Debug/net6.0/Polimorfismo.runtimeconfig.json
+/home/angelina/Documents/ESTUDOS/FACULDADE/2023.1/LP3/repoProject/Trabalho_LPIII/Polimorfismo/bin/Debug/net6.0/Polimorfismo.dll
+/home/angelina/Documents/ESTUDOS/FACULDADE/2023.1/LP3/repoProject/Trabalho_LPIII/Polimorfismo/bin/Debug/net6.0/Polimorfismo.pdb
+/home/angelina/Documents/ESTUDOS/FACULDADE/2023.1/LP3/repoProject/Trabalho_LPIII/Polimorfismo/obj/Debug/net6.0/Polimorfismo.csproj.AssemblyReference.cache
+/home/angelina/Documents/ESTUDOS/FACULDADE/2023.1/LP3/repoProject/Trabalho_LPIII/Polimorfismo/obj/Debug/net6.0/Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+/home/angelina/Documents/ESTUDOS/FACULDADE/2023.1/LP3/repoProject/Trabalho_LPIII/Polimorfismo/obj/Debug/net6.0/Polimorfismo.AssemblyInfoInputs.cache
+/home/angelina/Documents/ESTUDOS/FACULDADE/2023.1/LP3/repoProject/Trabalho_LPIII/Polimorfismo/obj/Debug/net6.0/Polimorfismo.AssemblyInfo.cs
+/home/angelina/Documents/ESTUDOS/FACULDADE/2023.1/LP3/repoProject/Trabalho_LPIII/Polimorfismo/obj/Debug/net6.0/Polimorfismo.csproj.CoreCompileInputs.cache
+/home/angelina/Documents/ESTUDOS/FACULDADE/2023.1/LP3/repoProject/Trabalho_LPIII/Polimorfismo/obj/Debug/net6.0/Polimorfismo.dll
+/home/angelina/Documents/ESTUDOS/FACULDADE/2023.1/LP3/repoProject/Trabalho_LPIII/Polimorfismo/obj/Debug/net6.0/refint/Polimorfismo.dll
+/home/angelina/Documents/ESTUDOS/FACULDADE/2023.1/LP3/repoProject/Trabalho_LPIII/Polimorfismo/obj/Debug/net6.0/Polimorfismo.pdb
+/home/angelina/Documents/ESTUDOS/FACULDADE/2023.1/LP3/repoProject/Trabalho_LPIII/Polimorfismo/obj/Debug/net6.0/Polimorfismo.genruntimeconfig.cache
+/home/angelina/Documents/ESTUDOS/FACULDADE/2023.1/LP3/repoProject/Trabalho_LPIII/Polimorfismo/obj/Debug/net6.0/ref/Polimorfismo.dll
