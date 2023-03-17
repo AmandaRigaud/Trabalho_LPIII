@@ -1,0 +1,15 @@
+d:\Dev\Extras\Faculdade\LPIII\Trabalho_LPIII\obj\Debug\net7.0\Trabalho_LPIII.csproj.AssemblyReference.cache
+d:\Dev\Extras\Faculdade\LPIII\Trabalho_LPIII\obj\Debug\net7.0\Trabalho_LPIII.GeneratedMSBuildEditorConfig.editorconfig
+d:\Dev\Extras\Faculdade\LPIII\Trabalho_LPIII\obj\Debug\net7.0\Trabalho_LPIII.AssemblyInfoInputs.cache
+d:\Dev\Extras\Faculdade\LPIII\Trabalho_LPIII\obj\Debug\net7.0\Trabalho_LPIII.AssemblyInfo.cs
+d:\Dev\Extras\Faculdade\LPIII\Trabalho_LPIII\obj\Debug\net7.0\Trabalho_LPIII.csproj.CoreCompileInputs.cache
+d:\Dev\Extras\Faculdade\LPIII\Trabalho_LPIII\bin\Debug\net7.0\Trabalho_LPIII.exe
+d:\Dev\Extras\Faculdade\LPIII\Trabalho_LPIII\bin\Debug\net7.0\Trabalho_LPIII.deps.json
+d:\Dev\Extras\Faculdade\LPIII\Trabalho_LPIII\bin\Debug\net7.0\Trabalho_LPIII.runtimeconfig.json
+d:\Dev\Extras\Faculdade\LPIII\Trabalho_LPIII\bin\Debug\net7.0\Trabalho_LPIII.dll
+d:\Dev\Extras\Faculdade\LPIII\Trabalho_LPIII\bin\Debug\net7.0\Trabalho_LPIII.pdb
+d:\Dev\Extras\Faculdade\LPIII\Trabalho_LPIII\obj\Debug\net7.0\Trabalho_LPIII.dll
+d:\Dev\Extras\Faculdade\LPIII\Trabalho_LPIII\obj\Debug\net7.0\refint\Trabalho_LPIII.dll
+d:\Dev\Extras\Faculdade\LPIII\Trabalho_LPIII\obj\Debug\net7.0\Trabalho_LPIII.pdb
+d:\Dev\Extras\Faculdade\LPIII\Trabalho_LPIII\obj\Debug\net7.0\Trabalho_LPIII.genruntimeconfig.cache
+d:\Dev\Extras\Faculdade\LPIII\Trabalho_LPIII\obj\Debug\net7.0\ref\Trabalho_LPIII.dll
