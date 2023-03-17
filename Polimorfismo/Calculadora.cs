@@ -9,12 +9,14 @@ namespace Polimorfismo
     {
         public void div(int n1, int n2)
         {
-            throw new NotImplementedException();
+            double result = n1/n2;
+            Console.WriteLine("A divisão eh: {0} ", result);
         }
 
         public void div(double n1, double n2)
         {
-            throw new NotImplementedException();
+            double result = n1/n2;
+            Console.WriteLine("A divisão eh: {0} ", result);
         }
 
 
@@ -29,12 +31,14 @@ namespace Polimorfismo
 
         public void mult(int n1, int n2)
         {
-            throw new NotImplementedException();
+            int result = n1*n2;
+            Console.WriteLine("A multiplicacao eh: {0} ", result);
         }
 
         public void mult(double n1, double n2)
         {
-            throw new NotImplementedException();
+            double result = n1*n2;
+            Console.WriteLine("A multiplicacao eh: {0} ", result);
         }
 
 
@@ -58,7 +62,8 @@ namespace Polimorfismo
 
         public void soma(int n1, int n2)
         {
-            throw new NotImplementedException();
+            int result = n1+n2;
+            Console.WriteLine("A soma eh: {0} ", result);
         }
 
         public void soma(double n1, double n2)
