@@ -23,7 +23,6 @@ namespace Polimorfismo
         void soma(params int[]n);
         void sub(params int[]n);
         void mult(params int[]n);
-        void div(params int[]n);
 
         // {n} parametros (double)
         void soma(params double[]n);

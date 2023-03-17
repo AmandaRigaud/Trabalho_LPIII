@@ -18,14 +18,13 @@ namespace Polimorfismo
         }
 
 
-        public void div(params int[] n)
-        {
-            throw new NotImplementedException();
-        }
-
         public void div(params double[] n)
         {
-            throw new NotImplementedException();
+            double div = 1;
+            foreach(double num in n){
+                div /= num;
+            }
+            Console.WriteLine("A divisão eh: {0} ",div);
         }
 
         public void mult(int n1, int n2)
@@ -79,7 +78,11 @@ namespace Polimorfismo
 
         public void soma(params double[] n)
         {
-            throw new NotImplementedException();
+            double soma = 0;
+            foreach(double num in n){
+                soma += num;
+            }
+            Console.WriteLine("A soma eh : {0}", soma);
         }
 
 
@@ -97,7 +100,6 @@ namespace Polimorfismo
         public void sub(params int[]n){
             if(n.Length > 0){
                 int sub = n[0];
-                Console.WriteLine(sub);
                 for(int i = 1; i < n.Length; i++){
                     sub *= -1;
                     sub -= - n[i];
@@ -108,9 +110,15 @@ namespace Polimorfismo
 
         public void sub(params double[] n)
         {
-            throw new NotImplementedException();
+            if(n.Length > 0){
+                double sub = n[0];
+                
+                for(int i = 1; i < n.Length; i++){
+                    sub *= -1;
+                    sub -= - n[i];
+                }
+                Console.WriteLine("A subtração eh : {0}", sub);
+            }
         }
-
-
     }
 }
