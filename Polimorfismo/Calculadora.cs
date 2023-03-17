@@ -7,26 +7,84 @@ namespace Polimorfismo
 {
     public class Calculadora : ICalculadora
     {
-        public Calculadora(){}
+        public void div(int n1, int n2)
+        {
+            throw new NotImplementedException();
+        }
 
-        // 2 parametros (int)
-        void soma(int n1, int n2){}
-        void sub(int n1, int n2){}
-        void mult(int n1, int n2){}
-        void div(int n1, int n2){}
+        public void div(double n1, double n2)
+        {
+            throw new NotImplementedException();
+        }
 
-        // 2 parametros (double)
-        void soma(double n1, double n2){}
-        void sub(double n1, double n2){}
-        void mult(double n1, double n2){}
-        void div(double n1, double n2){}
+        public void div(decimal n1, decimal n2)
+        {
+            throw new NotImplementedException();
+        }
 
-        // 2 parametros (decimal)
-        void soma(decimal n1, decimal n2){}
-        void sub(decimal n1, decimal n2){}
-        void mult(decimal n1, decimal n2){}
-        void div(decimal n1, decimal n2){}
-        
+        public void div(params int[] n)
+        {
+            throw new NotImplementedException();
+        }
+
+        public void div(params double[] n)
+        {
+            throw new NotImplementedException();
+        }
+
+        public void div(params decimal[] n)
+        {
+            throw new NotImplementedException();
+        }
+
+        public void mult(int n1, int n2)
+        {
+            throw new NotImplementedException();
+        }
+
+        public void mult(double n1, double n2)
+        {
+            throw new NotImplementedException();
+        }
+
+        public void mult(decimal n1, decimal n2)
+        {
+            throw new NotImplementedException();
+        }
+
+        public void mult(params int[]n) {
+            int mult = 1;
+            foreach(int num in n){
+                mult *= num;
+            }
+            Console.WriteLine("A multiplicação eh: {0} ",mult);
+        }
+
+        public void mult(params double[] n)
+        {
+            throw new NotImplementedException();
+        }
+
+        public void mult(params decimal[] n)
+        {
+            throw new NotImplementedException();
+        }
+
+        public void soma(int n1, int n2)
+        {
+            throw new NotImplementedException();
+        }
+
+        public void soma(double n1, double n2)
+        {
+            throw new NotImplementedException();
+        }
+
+        public void soma(decimal n1, decimal n2)
+        {
+            throw new NotImplementedException();
+        }
+
         // {n} parametros (int)
         public void soma(params int[]n){
             int soma = 0;
@@ -35,29 +93,53 @@ namespace Polimorfismo
             }
             Console.WriteLine("A soma eh : {0}", soma);
         }
+
+        public void soma(params double[] n)
+        {
+            throw new NotImplementedException();
+        }
+
+        public void soma(params decimal[] n)
+        {
+            throw new NotImplementedException();
+        }
+
+        public void sub(int n1, int n2)
+        {
+            throw new NotImplementedException();
+        }
+
+        public void sub(double n1, double n2)
+        {
+            throw new NotImplementedException();
+        }
+
+        public void sub(decimal n1, decimal n2)
+        {
+            throw new NotImplementedException();
+        }
+
         public void sub(params int[]n){
             if(n.Length > 0){
                 int sub = n[0];
+                Console.WriteLine(sub);
                 for(int i = 1; i < n.Length; i++){
-                    sub -= n[i];
+                    sub *= -1;
+                    sub -= - n[i];
                 }
                 Console.WriteLine("A subtração eh : {0}", sub);
             }
         }
-        public void mult(params int[]n){}
-        public void div(params int[]n){}
 
-        // {n} parametros (double)
-        public void soma(params double[]n){}
-        public void sub(params double[]n){}
-        public void mult(params double[]n){}
-        public void div(params double[]n){}
+        public void sub(params double[] n)
+        {
+            throw new NotImplementedException();
+        }
 
+        public void sub(params decimal[] n)
+        {
+            throw new NotImplementedException();
+        }
 
-        // {n} parametros (decimal)
-        public void soma(params decimal[]n){}
-        public void sub(params decimal[]n){}
-        public void mult(params decimal[]n){}
-        public void div(params decimal[]n){}
     }
 }
