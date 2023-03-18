@@ -15,8 +15,7 @@ namespace Trabalho_LPIII.models {
             Double soma = 0;
             int count = 0;
             for (int i=start; i<=end;) {
-                i+=step;
-                soma += i;
+                soma += step;
                 if (soma > end) break;
                 count++;
                 Console.Write("Etapa " + count + ": " + soma + " | ");
