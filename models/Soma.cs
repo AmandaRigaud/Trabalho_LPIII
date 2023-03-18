@@ -10,5 +10,19 @@ namespace Trabalho_LPIII.models {
             }
             return soma;
         }
+       
+        public Double eval(int start, int end, int step) {
+            Double soma = 0;
+            int count = 0;
+            for (int i=start; i<=end;) {
+                i+=step;
+                soma += i;
+                if (soma > end) break;
+                count++;
+                Console.Write("Etapa " + count + ": " + soma + " | ");
+            }
+            Console.WriteLine("");
+            return soma;
+        }
     }
 }
