@@ -15,6 +15,7 @@ namespace Polimorfismo {
             soma.eval(0, 120, 20);
             Console.WriteLine(subtracao.eval(4, 1, 1));
             Console.WriteLine(multiplicacao.eval(4, 5, 2));
+            Console.WriteLine(multiplicacao.eval(0, 50, 2));
             Console.WriteLine(divisao.eval(100, 4, 5));
 
             Console.WriteLine(fatorial.eval(3, 3, 4, 4, 5));

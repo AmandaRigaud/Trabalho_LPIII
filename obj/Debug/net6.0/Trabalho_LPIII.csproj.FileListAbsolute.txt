@@ -1,0 +1,15 @@
+/home/angelina/Documents/ESTUDOS/FACULDADE/2023.1/LP3/repoProject/Trabalho_LPIII/bin/Debug/net6.0/Trabalho_LPIII
+/home/angelina/Documents/ESTUDOS/FACULDADE/2023.1/LP3/repoProject/Trabalho_LPIII/bin/Debug/net6.0/Trabalho_LPIII.deps.json
+/home/angelina/Documents/ESTUDOS/FACULDADE/2023.1/LP3/repoProject/Trabalho_LPIII/bin/Debug/net6.0/Trabalho_LPIII.runtimeconfig.json
+/home/angelina/Documents/ESTUDOS/FACULDADE/2023.1/LP3/repoProject/Trabalho_LPIII/bin/Debug/net6.0/Trabalho_LPIII.dll
+/home/angelina/Documents/ESTUDOS/FACULDADE/2023.1/LP3/repoProject/Trabalho_LPIII/bin/Debug/net6.0/Trabalho_LPIII.pdb
+/home/angelina/Documents/ESTUDOS/FACULDADE/2023.1/LP3/repoProject/Trabalho_LPIII/obj/Debug/net6.0/Trabalho_LPIII.csproj.AssemblyReference.cache
+/home/angelina/Documents/ESTUDOS/FACULDADE/2023.1/LP3/repoProject/Trabalho_LPIII/obj/Debug/net6.0/Trabalho_LPIII.GeneratedMSBuildEditorConfig.editorconfig
+/home/angelina/Documents/ESTUDOS/FACULDADE/2023.1/LP3/repoProject/Trabalho_LPIII/obj/Debug/net6.0/Trabalho_LPIII.AssemblyInfoInputs.cache
+/home/angelina/Documents/ESTUDOS/FACULDADE/2023.1/LP3/repoProject/Trabalho_LPIII/obj/Debug/net6.0/Trabalho_LPIII.AssemblyInfo.cs
+/home/angelina/Documents/ESTUDOS/FACULDADE/2023.1/LP3/repoProject/Trabalho_LPIII/obj/Debug/net6.0/Trabalho_LPIII.csproj.CoreCompileInputs.cache
+/home/angelina/Documents/ESTUDOS/FACULDADE/2023.1/LP3/repoProject/Trabalho_LPIII/obj/Debug/net6.0/Trabalho_LPIII.dll
+/home/angelina/Documents/ESTUDOS/FACULDADE/2023.1/LP3/repoProject/Trabalho_LPIII/obj/Debug/net6.0/refint/Trabalho_LPIII.dll
+/home/angelina/Documents/ESTUDOS/FACULDADE/2023.1/LP3/repoProject/Trabalho_LPIII/obj/Debug/net6.0/Trabalho_LPIII.pdb
+/home/angelina/Documents/ESTUDOS/FACULDADE/2023.1/LP3/repoProject/Trabalho_LPIII/obj/Debug/net6.0/Trabalho_LPIII.genruntimeconfig.cache
+/home/angelina/Documents/ESTUDOS/FACULDADE/2023.1/LP3/repoProject/Trabalho_LPIII/obj/Debug/net6.0/ref/Trabalho_LPIII.dll
