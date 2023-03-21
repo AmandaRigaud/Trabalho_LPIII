@@ -17,7 +17,10 @@ namespace Trabalho_LPIII.models
             int count = 0;
             for (int i = start; i <=end;){
                 mult *= step;
-                if(mult > end) break;
+                if(mult > end) {
+                    mult /= step;
+                    break;
+                }
                 count++;
                 Console.Write("Etapa: {0} = {1} |", count, mult);
             }
