@@ -13,5 +13,22 @@ namespace Trabalho_LPIII.models
             }
             return resultado;
         }
+
+        public Double eval(int start, int end, int step){
+            Console.WriteLine("limite");
+            Double div = start;
+            int count = 0;
+            for( int i = start; i>=end;){
+                div /= step;
+                if(div < end){
+                    div *=step;
+                    break;
+                }
+                count++;
+                Console.Write("Etapa: {0} = {1} |", count, div);
+            }
+            Console.WriteLine("");
+            return div;
+        }
     }
 }
