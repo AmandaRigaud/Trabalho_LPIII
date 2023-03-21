@@ -1,4 +1,3 @@
-using System;
 using Trabalho_LPIII.interfaces;
 
 namespace Trabalho_LPIII.models
@@ -12,19 +11,6 @@ namespace Trabalho_LPIII.models
                 resultado -= numero[i];
             }
             return resultado;
-        }
-
-        public Double eval(int start, int end, int step){
-            Double sub = start;
-            int count = 0;
-            for(int i = end; i <= start;){
-                sub -= step;
-                if(sub <= end) break;
-                count++;
-                Console.Write("Etapa: {0} = {1} | ", count, sub);
-            }
-            Console.WriteLine("");
-            return sub;
         }
     }
     

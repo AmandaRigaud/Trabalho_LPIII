@@ -1,36 +1,33 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net7.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net7.0": []
   },
   "packageFolders": {
-    "/home/angelina/.nuget/packages/": {}
+    "C:\\Users\\felip\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/angelina/Documents/ESTUDOS/FACULDADE/2023.1/LP3/repoProject/Trabalho_LPIII/Trabalho_LPIII.csproj",
+      "projectUniqueName": "D:\\Dev\\Extras\\Faculdade\\LPIII\\Trabalho_LPIII\\Trabalho_LPIII.csproj",
       "projectName": "Trabalho_LPIII",
-      "projectPath": "/home/angelina/Documents/ESTUDOS/FACULDADE/2023.1/LP3/repoProject/Trabalho_LPIII/Trabalho_LPIII.csproj",
-      "packagesPath": "/home/angelina/.nuget/packages/",
-      "outputPath": "/home/angelina/Documents/ESTUDOS/FACULDADE/2023.1/LP3/repoProject/Trabalho_LPIII/obj/",
+      "projectPath": "D:\\Dev\\Extras\\Faculdade\\LPIII\\Trabalho_LPIII\\Trabalho_LPIII.csproj",
+      "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
+      "outputPath": "D:\\Dev\\Extras\\Faculdade\\LPIII\\Trabalho_LPIII\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/angelina/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\felip\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "net6.0"
+        "net7.0"
       ],
-      "sources": {
-        "https://api.nuget.org/v3/index.json": {}
-      },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "projectReferences": {}
         }
       },
@@ -41,8 +38,8 @@
       }
     },
     "frameworks": {
-      "net6.0": {
-        "targetAlias": "net6.0",
+      "net7.0": {
+        "targetAlias": "net7.0",
         "imports": [
           "net461",
           "net462",
@@ -59,7 +56,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.407/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }
