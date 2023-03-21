@@ -14,18 +14,18 @@ namespace Trabalho_LPIII.models
             return resultado;
         }
 
-        // public Double eval(int start, int end, int step){
-        //     Double sub = start;
-        //     int count = 0;
-        //     for(int i = end; i >= start;){
-        //         sub -= step;
-        //         if(sub < start) break;
-        //         count++;
-        //         Console.Write("Etapa: {0} = {1} | ", count, sub);
-        //     }
-        //     Console.WriteLine("");
-        //     return sub;
-        // }
+        public Double eval(int start, int end, int step){
+            Double sub = start;
+            int count = 0;
+            for(int i = end; i <= start;){
+                sub -= step;
+                if(sub <= end) break;
+                count++;
+                Console.Write("Etapa: {0} = {1} | ", count, sub);
+            }
+            Console.WriteLine("");
+            return sub;
+        }
     }
     
 }
