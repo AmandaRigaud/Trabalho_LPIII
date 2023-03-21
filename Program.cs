@@ -58,7 +58,6 @@ namespace Polimorfismo {
                         }
                         break;
                     case 2:
-                        Console.WriteLine("sub");
                         Console.WriteLine("Desenha realizar Subtração Normal[1] ou Subtração com Step[2]: ");
                         int op2 = Convert.ToInt32(Console.ReadLine());
                         Console.Clear();
@@ -88,8 +87,6 @@ namespace Polimorfismo {
                         }
                         break;
                     case 3: 
-                        Console.WriteLine("div");
-                        Console.WriteLine("sub");
                         Console.WriteLine("Desenha realizar Divisão Normal[1] ou Divisão com Step[2]: ");
                         int op3 = Convert.ToInt32(Console.ReadLine());
                         Console.Clear();
@@ -119,7 +116,6 @@ namespace Polimorfismo {
                         }
                         break;
                     case 4:
-                        Console.WriteLine("mult");
                         Console.WriteLine("Desenha realizar Multiplicação Normal[1] ou Multiplicação com Step[2]: ");
                         int op4 = Convert.ToInt32(Console.ReadLine());
                         Console.Clear();
@@ -149,9 +145,6 @@ namespace Polimorfismo {
                         }
                         break;
                     case 5:
-                        Console.WriteLine("fat");
-                        // Console.WriteLine("Desenha realizar Multiplicação Normal[1] ou Multiplicação com Step[2]: ");
-                        // int op5 = Convert.ToInt32(Console.ReadLine());
                         Console.Clear();
                         Console.WriteLine("Digite quantidade de valores que deseja o Fatorial: ");
                         int fat = Convert.ToInt32(Console.ReadLine());
